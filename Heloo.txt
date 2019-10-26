@@ -4,4 +4,6 @@ This is tusk repository
 
 This is second commit
 
+One plus 7
+One plus 7 pro
 Thanks: Narendar
