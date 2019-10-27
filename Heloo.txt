@@ -15,3 +15,4 @@ samsung 2
 Samsung 1
 samsung 3
 This is for command line learning
+This is the line changed from git command
